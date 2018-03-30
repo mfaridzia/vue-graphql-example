@@ -1,2 +1,2 @@
-# VueJS Graphql Example
+## VueJS Graphql Example
 
